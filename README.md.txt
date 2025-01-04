@@ -43,6 +43,6 @@ COPILOT：
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-## Artigo Relacionado - [Link para o meu artigo](URL_do_seu_artigo
+## Artigo Relacionado -(https://github.com/KleberNiccioli/prompts-recipe-to-create-a-ebook)
 
 
