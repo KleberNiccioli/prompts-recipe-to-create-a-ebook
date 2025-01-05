@@ -28,7 +28,8 @@ COPILOT：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | |Gere imagens artísticas do universo como estrelas, big bang, energia escura, supernovas, cosmo, universo
+| título | Gere imagens artísticas do universo como estrelas, 
+           big bang, energia escura, supernovas, cosmo, universo
 
 ## ✨ Features
 
